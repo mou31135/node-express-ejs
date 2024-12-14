@@ -1,2 +1,2 @@
 # ejs_express_tmp
-test
+npm i
